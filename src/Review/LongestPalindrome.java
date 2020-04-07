@@ -1,7 +1,4 @@
-// https://leetcode.com/problems/longest-palindromic-substring/
-
-import java.util.HashMap;
-import java.util.Map;
+package Review;// https://leetcode.com/problems/longest-palindromic-substring/
 
 public class LongestPalindrome {
     public static void main(String[] args) {
