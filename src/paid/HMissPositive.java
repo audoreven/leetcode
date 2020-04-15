@@ -1,8 +1,8 @@
-// https://leetcode.com/problems/first-missing-positive/
+package paid;// https://leetcode.com/problems/first-missing-positive/
 
 import java.util.*;
 
-public class MissPositive {
+public class HMissPositive {
     public static int firstMissingPositive(int[] nums) {
         int n=nums.length;
         if (n==0) {

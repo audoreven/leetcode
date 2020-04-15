@@ -1,8 +1,8 @@
-package Money;// https://leetcode.com/problems/roman-to-integer/
+package paid;// https://leetcode.com/problems/roman-to-integer/
 
 import java.util.*;
 
-public class RomanInteger {
+public class ERomanInteger {
     public static int romanToInt(String s) {
         if (s=="") {
             return 0;
