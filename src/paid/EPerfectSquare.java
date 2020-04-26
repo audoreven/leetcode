@@ -1,5 +1,7 @@
 package paid;// https://leetcode.com/problems/valid-perfect-square/
 
+// 4/11
+
 public class EPerfectSquare {
     public boolean isPerfectSquare(int num) {
         if (num==1 || num ==0) {

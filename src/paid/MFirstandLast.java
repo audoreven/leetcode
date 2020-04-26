@@ -1,4 +1,6 @@
-package money; // https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+package paid; // https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+
+// 4/18
 
 public class MFirstandLast {
     public int[] searchRange(int[] nums, int target) {

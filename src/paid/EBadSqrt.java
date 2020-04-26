@@ -1,5 +1,7 @@
 package paid;// https://leetcode.com/problems/sqrtx/
 
+// 4/11
+
 public class EBadSqrt {
     public static int mySqrt(int x) {
         int low=1; int high =x;

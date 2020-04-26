@@ -1,4 +1,6 @@
-package money; // https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+package paid; // https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+// 4/18
 
 public class MNthNodeRemove {
     public ListNode removeNthFromEnd(ListNode head, int n) {

@@ -1,5 +1,7 @@
 package paid; // https://leetcode.com/problems/powx-n/
 
+// 4/11
+
 public class MPower {
     public static double myPow(double x, int n) {
         if (n==0) {
